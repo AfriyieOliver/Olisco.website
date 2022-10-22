@@ -1,0 +1,54 @@
+
+ <html>
+<head>
+<title>Navigation Window</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<style>
+body{
+margin: 0;
+padding: 0;
+font-family: Arial;
+}
+.nav{
+overflow: hidden;
+background: brown;
+}
+.nav a{
+float: left;
+color:blue
+text-align: center;
+padding: 20px 16px;
+text-decoration: none;
+width:100px;
+font-size: 14px;
+font-weight: bold;
+text-transform: uppercase
+}
+.nav a:hover{
+color:#000;
+background: white;
+}
+.nav a.active{
+background: gold;
+}
+</style>
+<body>
+<div class ="nav">
+<a class ="active" href ="#">Home </a>
+<a href ="./webpage/VAN HIELE'S THEORY.html">VAN HEILE'S THEORY</a>
+<a href ="./webpage/PIAGET.html">PIAGET</a>
+<a href ="./webpage/ BLOOM TAXONOMY.html">BLOOM TAXONOMY's</a>
+ 
+</div>
+<p>My portal</p>
+<h1> this Webpage assists you to link varrious theories of Education</h1>
+<img src="jj.jpg"width="300"height="350">
+<p>CLEMENT TSWASAM<p/>
+<p>200020360</p>
+<p>GROUP FIVE </p>
+
+<a href="VAN HEILE'S THEORY.html">VAN HEILE'S THEORYclick here to read about VAN HEILE'S THEORY </a> </br>
+
+</body>
+</html>
